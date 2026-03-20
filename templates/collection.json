@@ -1,1 +1,104 @@
-{"sections":{"section_divider_dVzcmz":{"type":"section-divider","settings":{"show_line":true,"width":"wrapper--full","color_scheme":"scheme-6","padding_top":0,"padding_bottom":0}},"hero":{"type":"collection-image-with-title","settings":{"show_title":true,"show_description":true,"flex_align":"align--middle-left","color_scheme":"","show_text_background":false,"overlay_type":"disabled","show_image":false,"banner_layout":"overlay","height":"screen-height-one-third","mobile_height":"screen-height-one-half--mobile","padding_top":20,"padding_bottom":0}},"section_highlights_6xx8H9":{"type":"section-highlights","blocks":{"highlight_nhkf7G":{"type":"highlight","settings":{"heading":"New Arrivals","url":"","color":"#0a0a0a","bg_color":"#ffffff","border_color":"#d1d1d6"}},"highlight_WREypK":{"type":"highlight","settings":{"heading":"Best Sellers","url":"","color":"#0a0a0a","bg_color":"#ffffff","border_color":"#d1d1d6"}},"highlight_LKpYtB":{"type":"highlight","settings":{"heading":"Sale","url":"","color":"#0a0a0a","bg_color":"#ffffff","border_color":"#d1d1d6"}},"highlight_Cr3qqN":{"type":"highlight","settings":{"heading":"Rings","url":"","color":"#0a0a0a","bg_color":"#ffffff","border_color":"#d1d1d6"}},"highlight_BfUMW8":{"type":"highlight","settings":{"heading":"Earrings","url":"","color":"#0a0a0a","bg_color":"#ffffff","border_color":"#d1d1d6"}},"highlight_J6Ue7q":{"type":"highlight","settings":{"heading":"Necklaces","url":"","color":"#0a0a0a","bg_color":"#ffffff","border_color":"#d1d1d6"}}},"block_order":["highlight_nhkf7G","highlight_WREypK","highlight_LKpYtB","highlight_Cr3qqN","highlight_BfUMW8","highlight_J6Ue7q"],"disabled":true,"settings":{"style":"button","grid":6,"heading":"","heading_position":"text-center","heading_font_size":"heading-large","text_font_size":"body-small","width":"wrapper--full-padded","layout_mobile":"2","color_scheme":"scheme-1","padding_top":0,"padding_bottom":40,"heading_tag":"automatic"}},"subcollections":{"type":"subcollections","disabled":true,"settings":{"subcollection_layout":"grid","subcollection_description":false,"select_image":"collection","color_scheme":"","color":"#ffffff","bg_color":"","padding_top":20,"padding_bottom":20}},"main":{"type":"collection","blocks":{"featured_image_9z8PEP":{"type":"featured_image","disabled":true,"settings":{"position":3,"featured_heading":"{{ collection.title }}","heading_font_size":"heading-medium","featured_text":"<p>Sculpted in Stone. Designed for Now.<\/p>","featured_button_text":"Shop now","featured_button_link":"","button_type":"btn--white","button_size":"","button_style":"btn--solid","show_arrow":false,"featured_color_text":"#ffffff","overlay_type":"opacity","heading_tag":"automatic"}},"featured_image_z6adnV":{"type":"featured_image","disabled":true,"settings":{"position":7,"featured_heading":"","heading_font_size":"heading-medium","featured_text":"<p>Our top sellers on hand in the studio, perfect for quick gifts or if you're after something ready to wear. All other pieces are handmade to order, and it'll take about 4-8 weeks to craft.<\/p>","featured_button_text":"","featured_button_link":"","button_type":"btn--primary","button_size":"","button_style":"btn--outline","show_arrow":false,"featured_color_text":"#ffffff","overlay_type":"opacity","heading_tag":"automatic"}}},"block_order":["featured_image_9z8PEP","featured_image_z6adnV"],"settings":{"enable_sort":true,"enable_filters":true,"filter_layout":"slide-out","default_open":true,"collection_linklist":"","grid":3,"grid_mobile":"2","products_per_page":24,"color_scheme":"scheme-1","padding_top":0,"padding_bottom":0}}},"order":["section_divider_dVzcmz","hero","section_highlights_6xx8H9","subcollections","main"]}
+{
+  "sections": {
+    "hero": {
+      "type": "pawd-collection-hero",
+      "settings": {
+        "eyebrow": "PAWD Collection",
+        "show_title": true,
+        "show_description": true
+      }
+    },
+    "main": {
+      "type": "pawd-collection-grid",
+      "settings": {
+        "grid_columns": 4,
+        "products_per_page": 24,
+        "card_ratio": "portrait",
+        "show_subnav": true,
+        "subnav_linklist": "",
+        "show_filters": true,
+        "show_sidebar": false,
+        "show_pers_strip": false,
+        "show_sale_timer": false,
+        "sale_end_date": "",
+        "show_rank_badges": false
+      }
+    },
+    "editorial": {
+      "type": "pawd-collection-editorial",
+      "settings": {
+        "eyebrow": "The PAWD Story",
+        "title": "Designed for the Modern Pet",
+        "body": "Every PAWD product is thoughtfully designed for modern pets and their humans.",
+        "button_text": "Explore Our Story",
+        "button_url": "/pages/craft"
+      }
+    },
+    "faq": {
+      "type": "pawd-collection-faq",
+      "settings": {
+        "eyebrow": "Need Help?",
+        "title": "Frequently Asked Questions",
+        "body": "<p>Everything you need to know about our collection.</p>"
+      },
+      "blocks": {
+        "faq_0": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What sizes do you offer?",
+            "answer": "<p>We offer XS through XL across most product lines. Each product page includes a detailed size guide with measurements and breed suggestions.</p>"
+          }
+        },
+        "faq_1": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How do I measure my pet?",
+            "answer": "<p>Use a soft tape measure around the widest part of their neck for collars, or the deepest part of their chest for harnesses. See our sizing guide for breed-specific recommendations.</p>"
+          }
+        },
+        "faq_2": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What is your returns policy?",
+            "answer": "<p>We offer a 30-day return policy on all non-personalised items. Items must be unused and in original packaging. Personalised items are final sale.</p>"
+          }
+        },
+        "faq_3": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How long does delivery take?",
+            "answer": "<p>Standard delivery is 3\u20135 business days. Express delivery (1\u20132 days) is available at checkout. Free shipping on orders over $80.</p>"
+          }
+        },
+        "faq_4": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Are your products safe for puppies?",
+            "answer": "<p>Yes! All PAWD products are designed with safety in mind. We recommend our adjustable ranges for growing puppies.</p>"
+          }
+        },
+        "faq_5": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Do you ship internationally?",
+            "answer": "<p>Currently we ship within Australia. International shipping is coming soon \u2014 join our newsletter to be the first to know.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_0",
+        "faq_1",
+        "faq_2",
+        "faq_3",
+        "faq_4",
+        "faq_5"
+      ]
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "editorial",
+    "faq"
+  ]
+}

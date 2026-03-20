@@ -3,7 +3,7 @@
     "hero": {
       "type": "pawd-collection-hero",
       "settings": {
-        "eyebrow": "Harnesses",
+        "eyebrow": "Cats",
         "show_title": true,
         "show_description": true
       }
@@ -15,7 +15,7 @@
         "products_per_page": 24,
         "card_ratio": "portrait",
         "show_subnav": true,
-        "subnav_linklist": "dogs-subnav",
+        "subnav_linklist": "cats-subnav",
         "show_filters": true,
         "show_sidebar": false,
         "show_pers_strip": false,
@@ -27,11 +27,11 @@
     "editorial": {
       "type": "pawd-collection-editorial",
       "settings": {
-        "eyebrow": "Harness Range",
-        "title": "Freedom to Move",
-        "body": "Ergonomic, breathable, reflective. Harnesses built for everyday adventures.",
+        "eyebrow": "For Cats",
+        "title": "Feline Refined",
+        "body": "Elegant essentials designed with the discerning cat in mind.",
         "button_text": "Explore Our Story",
-        "button_url": "/pages/our-story"
+        "button_url": "/pages/craft"
       }
     },
     "faq": {

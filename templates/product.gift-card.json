@@ -167,7 +167,7 @@
             "icon_size": 20,
             "title": "Need styling help?",
             "text_font_size": "body-medium",
-            "text": "<p>Book an appointment with our virtual stylists! <a href=\"https://broadcast-theme-main.myshopify.com/pages/contact\" title=\"https://broadcast-theme-main.myshopify.com/pages/contact\">Chat now</a></p>",
+            "text": "<p>Book an appointment with our virtual stylists! <a href=\"/pages/contact\" title=\"Contact\">Chat now</a></p>",
             "bg_color": "",
             "color": "",
             "padding_bottom": 16

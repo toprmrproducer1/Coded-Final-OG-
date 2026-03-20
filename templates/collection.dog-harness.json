@@ -3,7 +3,7 @@
     "hero": {
       "type": "pawd-collection-hero",
       "settings": {
-        "eyebrow": "New Arrivals",
+        "eyebrow": "Harnesses",
         "show_title": true,
         "show_description": true
       }
@@ -14,8 +14,8 @@
         "grid_columns": 4,
         "products_per_page": 24,
         "card_ratio": "portrait",
-        "show_subnav": false,
-        "subnav_linklist": "",
+        "show_subnav": true,
+        "subnav_linklist": "dogs-subnav",
         "show_filters": true,
         "show_sidebar": false,
         "show_pers_strip": false,
@@ -27,11 +27,11 @@
     "editorial": {
       "type": "pawd-collection-editorial",
       "settings": {
-        "eyebrow": "Just Landed",
-        "title": "The Latest from PAWD",
-        "body": "Fresh designs, new colourways, and seasonal essentials.",
+        "eyebrow": "Harness Range",
+        "title": "Freedom to Move",
+        "body": "Ergonomic, breathable, reflective. Harnesses built for everyday adventures.",
         "button_text": "Explore Our Story",
-        "button_url": "/pages/our-story"
+        "button_url": "/pages/craft"
       }
     },
     "faq": {

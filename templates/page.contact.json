@@ -11,7 +11,7 @@
         "form_title": "What Can We<br><em>Help With?</em>",
         "form_intro": "Fill out the form below and one of our team will get back to you directly. For order queries, have your order number ready and include it in the message field.",
         "form_button": "Send Message",
-        "form_note": "By submitting this form you agree to our <a href='/pages/privacy' style='color:var(--ob)'>Privacy Policy</a>. We'll use your details solely to respond to your enquiry.",
+        "form_note": "By submitting this form you agree to our <a href='/pages/privacy-policy' style='color:var(--ob)'>Privacy Policy</a>. We'll use your details solely to respond to your enquiry.",
         "info_eyebrow": "Other Ways to Reach Us",
         "info_title": "Direct<br><em>Channels.</em>",
         "email_address": "support@pawdstore.com",
